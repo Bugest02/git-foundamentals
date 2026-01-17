@@ -1,0 +1,1 @@
+This is a simple text file for trying the Add File feature in GitHub.
